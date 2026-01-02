@@ -1,5 +1,8 @@
 COMMAND 1:id 
-OUTPUT:uid=1000(adhvaitha) gid=1000(adhvaitha)   groups=1000(adhvaitha),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),107(netdev)
+
+OUTPUT:uid=1000(adhvaitha) gid=1000(adhvaitha) 
+groups=1000(adhvaitha),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),107(netdev)
+
 EXPLANATION:This command shows the user ID and group details of the currently logged-in user. It confirms that the user has sudo (administrator) privileges.
 
 COMMAND 2:pwd
