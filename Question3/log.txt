@@ -1,0 +1,4 @@
+user login successful
+admin logged in
+file accessed by admin
+normal user logout
